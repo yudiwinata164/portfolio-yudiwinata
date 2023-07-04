@@ -43,7 +43,7 @@ const Footer = () => {
 
       
         <p class="text-center md:text-end text-sm font-medium text-slate-500">
-        &copy; Dibuat Oleh <a href="https://instagram.com/yudiwinata164._" target="_blank" class="font-bold text-sky-600">Yudi Winata</a> - UAS 2023
+        &copy; Dibuat Oleh <a href="https://instagram.com/yudiwinata164._" target="_blank" class="font-bold text-sky-600">Yudi Winata</a> - UAS Fullstack 2023
         </p>
       </div>
   </footer>
